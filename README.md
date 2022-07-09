@@ -1,3 +1,10 @@
 # landing_page
 My second GitHub repo!
-Hello there, in this new project I'll be implementing some code about HTML and CSS, this is a landing page!
+
+This is an example of a single landing page my second exercise in The Odin Project course where I could enjoy practicing new skills.
+
+Demonstrated skills:
+<ul> 
+<li>HTML</li>
+<li>CSS</li>
+</ul>
