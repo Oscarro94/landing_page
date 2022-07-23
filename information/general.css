@@ -93,13 +93,13 @@ section{
     padding: 35px;
     background-color: #1F2937;
     color: white;
-    position: absolute;
+    position: relative;
     bottom: 0;
     left: 0;
     right: 0;
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 900px) {
 
     body {
         display: flex;
@@ -185,7 +185,6 @@ section{
     }
     
     
-    /* Footer Styling */
     .footer {
         display: flex;
         justify-content: center;
@@ -200,4 +199,3 @@ section{
     }
 
 }
-   
